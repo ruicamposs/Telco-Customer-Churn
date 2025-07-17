@@ -12,4 +12,4 @@ Tools used:
 	•	BigQuery (SQL) for data wrangling and churn metric calculations
 	•	Tableau Public for building a clean and insightful dashboard
 
-Dataset: [Telco Customer Churn Dataset (IBM) ] (https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+Dataset: [Telco Customer Churn Dataset (IBM) ](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
